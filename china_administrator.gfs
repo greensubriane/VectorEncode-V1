@@ -1,0 +1,36 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>china_administrator</Name>
+    <ElementPath>china_administrator</ElementPath>
+    <GeometryType>6</GeometryType>
+    <SRSName>EPSG:4326</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>33</FeatureCount>
+      <ExtentXMin>73.44696</ExtentXMin>
+      <ExtentXMax>135.08583</ExtentXMax>
+      <ExtentYMin>6.31864</ExtentYMin>
+      <ExtentYMax>53.55793</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>OBJECTID</Name>
+      <ElementPath>OBJECTID</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>NAME</Name>
+      <ElementPath>NAME</ElementPath>
+      <Type>String</Type>
+      <Width>24</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>Shape_Leng</Name>
+      <ElementPath>Shape_Leng</ElementPath>
+      <Type>Real</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>Shape_Area</Name>
+      <ElementPath>Shape_Area</ElementPath>
+      <Type>Real</Type>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>

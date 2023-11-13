@@ -1,0 +1,57 @@
+<HTML>
+<BODY>
+In general JDBC URLs have the following form:
+<BR>
+<code><B>&nbsp;&nbsp;&nbsp;&nbsp;jdbc:&lt;subprotocol&gt;:&lt;dbName&gt;[propertyList]</B></code>,
+<BR>
+where <code>subprotocol</code> is a driver or database connectivity specific name
+(e.g. "mysql", "odbc", "sqlserver" etc.) and the <code>dbName</code> portion of the URL
+identifies a specific database. A database can be in one of many locations:
+in the current working directory, on the classpath, in a specific Java DB database home directory,
+in an absolute location on your file system or on the network, etc. In this very losely
+specified structure each database driver provider can specify a custom syntax of the JDBC URL
+its driver expects.
+<P>
+    For more details about the general structure of the JDBC URL you can visit the
+    following link:
+    <a href="http://home.tiscali.nl/~bmc88/java/sbook/032.html">http://home.tiscali.nl/~bmc88/java/sbook/032.html</a>
+<P>
+    A good overview of the structure of the JDBC URLs for some of the most used database
+    systems can be found at:
+    <a href="http://www.petefreitag.com/articles/jdbc_urls/">http://www.petefreitag.com/articles/jdbc_urls/</a>
+<P>
+    Here are some example JDBC URLs:
+<ul>
+    <li>MySQL: <code><B>&nbsp;&nbsp;&nbsp;&nbsp;jdbc:mysql://localhost:3306/db1</code></B>
+    <li>SQL Server 2000:
+        <code><B>&nbsp;&nbsp;&nbsp;&nbsp;jdbc:microsoft:sqlserver://<I>serverName</I>\<I>instanceName</I>:1433</B></code>
+    <li>SQL Server 2005:
+        <code><B>&nbsp;&nbsp;&nbsp;&nbsp;jdbc:sqlserver://<I>serverName</I>;<I>instanceName</I>:1433[;<I>property</I>=<I>value</I>]</B></code>
+        <BR>
+        <code><B>&nbsp;&nbsp;&nbsp;&nbsp;jdbc:sqlserver://smi-test:1433;instanceName=BIOSTORM;databasename=ITN</B></code>
+    <li>Oracle (<I>Note</I>: the syntax after the "<code>:@</code>" is <code>host:port:sid</code>):
+        <code><B>&nbsp;&nbsp;&nbsp;&nbsp;jdbc:oracle:thin:@pcora5.gsi.de:1521:had3p1</B></code>
+        <BR>
+        <code><B>&nbsp;&nbsp;&nbsp;&nbsp;jdbc:oracle:oci7:@mydatabase</B></code>
+    <li>PostgreSQL: <code><B>&nbsp;&nbsp;&nbsp;&nbsp;jdbc:postgresql://localhost:5432/test</code></B>
+</ul>
+For further documentation related to the structure of the JDBC URLs by diferent vendors visit one of the following
+links:
+<ul>
+    <li>MySQL:
+        <a href="http://dev.mysql.com/doc/refman/4.1/en/connector-j-reference-configuration-properties.html">http://dev.mysql.com/doc/refman/4.1/en/connector-j-reference-configuration-properties.html</a>
+    <li>SQL Server 2000:
+        <a href="http://support.microsoft.com/kb/313225">http://support.microsoft.com/kb/313225</a>
+    <li>SQL Server 2005:
+        <a href="http://msdn2.microsoft.com/en-us/library/ms378428.aspx">http://msdn2.microsoft.com/en-us/library/ms378428.aspx</a>
+    <li>Oracle:
+        <a href="http://www.oracle.com/technology/tech/java/sqlj_jdbc/htdocs/jdbc_faq.htm#05_03">http://www.oracle.com/technology/tech/java/sqlj_jdbc/htdocs/jdbc_faq.htm#05_03</a>
+    <li>PostgreSQL:
+        <a href="http://www.fankhausers.com/postgresql/jdbc/#url">http://www.fankhausers.com/postgresql/jdbc/#url</a>
+</ul>
+<P>
+    For more information please refer to
+    <a href="http://protegewiki.stanford.edu/index.php/DataMaster" target="_top">
+        http://protegewiki.stanford.edu/index.php/DataMaster</a>
+</BODY>
+</HTML>

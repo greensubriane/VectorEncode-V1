@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml"
+        xmlns:fme="http://www.safe.com/gml/fme"
+        targetNamespace="http://www.safe.com/gml/fme" elementFormDefault="qualified">
+    <import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/gml.xsd"/>
+    <element name="raingauges" type="fme:raingaugesType" substitutionGroup="gml:_Feature"/>
+    <complexType name="raingaugesType">
+        <complexContent>
+            <extension base="gml:AbstractFeatureType">
+                <sequence>
+                    <element name="STCD" minOccurs="0">
+                        <simpleType>
+                            <restriction base="decimal">
+                                <totalDigits value="23"/>
+                                <fractionDigits value="6"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element name="STNM" minOccurs="0">
+                        <simpleType>
+                            <restriction base="string">
+                                <maxLength value="254"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element name="X" minOccurs="0">
+                        <simpleType>
+                            <restriction base="decimal">
+                                <totalDigits value="23"/>
+                                <fractionDigits value="6"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element name="Y" minOccurs="0">
+                        <simpleType>
+                            <restriction base="decimal">
+                                <totalDigits value="23"/>
+                                <fractionDigits value="6"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element ref="gml:pointProperty" minOccurs="0"/>
+                    <element ref="gml:multiPointProperty" minOccurs="0"/>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+</schema>

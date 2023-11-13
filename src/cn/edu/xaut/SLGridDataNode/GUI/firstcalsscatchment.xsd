@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml"
+        xmlns:fme="http://www.safe.com/gml/fme"
+        targetNamespace="http://www.safe.com/gml/fme" elementFormDefault="qualified">
+    <import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/gml.xsd"/>
+    <element name="First_class_catchment" type="fme:First_class_catchmentType" substitutionGroup="gml:_Feature"/>
+    <complexType name="First_class_catchmentType">
+        <complexContent>
+            <extension base="gml:AbstractFeatureType">
+                <sequence>
+                    <element name="LEFT_FID" minOccurs="0" type="integer"/>
+                    <element name="RIGHT_FID" minOccurs="0" type="integer"/>
+                    <element ref="gml:curveProperty" minOccurs="0"/>
+                    <element ref="gml:multiCurveProperty" minOccurs="0"/>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+</schema>

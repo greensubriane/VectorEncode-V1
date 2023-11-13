@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" xmlns:gml="http://www.opengis.net/gml"
+        xmlns:fme="http://www.safe.com/gml/fme"
+        targetNamespace="http://www.safe.com/gml/fme" elementFormDefault="qualified">
+    <import namespace="http://www.opengis.net/gml" schemaLocation="http://schemas.opengis.net/gml/3.1.1/base/gml.xsd"/>
+    <element name="reservior" type="fme:reserviorType" substitutionGroup="gml:_Feature"/>
+    <complexType name="reserviorType">
+        <complexContent>
+            <extension base="gml:AbstractFeatureType">
+                <sequence>
+                    <element name="OBJECTID" minOccurs="0" type="integer"/>
+                    <element name="ENNM" minOccurs="0">
+                        <simpleType>
+                            <restriction base="string">
+                                <maxLength value="41"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element name="ENNMCD" minOccurs="0">
+                        <simpleType>
+                            <restriction base="string">
+                                <maxLength value="41"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element name="T" minOccurs="0">
+                        <simpleType>
+                            <restriction base="string">
+                                <maxLength value="41"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element name="CLASS" minOccurs="0">
+                        <simpleType>
+                            <restriction base="string">
+                                <maxLength value="7"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element name="Shape_Leng" minOccurs="0">
+                        <simpleType>
+                            <restriction base="decimal">
+                                <totalDigits value="31"/>
+                                <fractionDigits value="11"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element name="Shape_Area" minOccurs="0">
+                        <simpleType>
+                            <restriction base="decimal">
+                                <totalDigits value="31"/>
+                                <fractionDigits value="11"/>
+                            </restriction>
+                        </simpleType>
+                    </element>
+                    <element ref="gml:surfaceProperty" minOccurs="0"/>
+                    <element ref="gml:multiSurfaceProperty" minOccurs="0"/>
+                </sequence>
+            </extension>
+        </complexContent>
+    </complexType>
+</schema>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root><!--Config file for "VRforCAD" Application-->
+    <Background B="0.56" G="0.62" R="0.63"/>
+    <Database databaseName="cadmodels" password="cadmodelspass" url="localhost" userName="cadmodels"/>
+    <UserAccount UserAbout="first user :p" UserName="danny" UserPassword="qUqP5cyxm6YcTAhz05Hph5gvu9M="/>
+</root>

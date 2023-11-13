@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+    <named-config>
+        <name>127.0.0.1-master</name>
+        <user>sa</user>
+        <password>ikoiko</password>
+        <jdbcUrl>jdbc:sqlserver://127.0.0.1:1433;DatabaseName=master</jdbcUrl>
+        <driverClass>com.microsoft.sqlserver.jdbc.SQLServerDriver</driverClass>
+        <acquireIncrement>5000</acquireIncrement>
+        <initialPoolSize>100000</initialPoolSize>
+        <minPoolSize>50000</minPoolSize>
+        <maxPoolSize>10000</maxPoolSize>
+        <maxStatements>3000</maxStatements>
+        <maxStatementsPerConnection>5</maxStatementsPerConnection>
+    </named-config>
+    <named-config>
+        <name>127.0.0.1-gmldatabase</name>
+        <user>sa</user>
+        <password>ikoiko</password>
+        <jdbcUrl>jdbc:sqlserver://127.0.0.1:1433;DatabaseName=gmldatabase</jdbcUrl>
+        <driverClass>com.microsoft.sqlserver.jdbc.SQLServerDriver</driverClass>
+        <acquireIncrement>5000</acquireIncrement>
+        <initialPoolSize>100000</initialPoolSize>
+        <minPoolSize>50000</minPoolSize>
+        <maxPoolSize>10000</maxPoolSize>
+        <maxStatements>3000</maxStatements>
+        <maxStatementsPerConnection>5</maxStatementsPerConnection>
+    </named-config>
+    <named-config>
+        <name>localhost-postgres</name>
+        <user>postgres</user>
+        <password>ikoiko</password>
+        <jdbcUrl>jdbc:postgresql://localhost:5432/postgres</jdbcUrl>
+        <driverClass>org.postgresql.Driver</driverClass>
+        <acquireIncrement>1000</acquireIncrement>
+        <initialPoolSize>1000</initialPoolSize>
+        <minPoolSize>1000</minPoolSize>
+        <maxPoolSize>10000</maxPoolSize>
+        <maxStatements>3000</maxStatements>
+        <maxStatementsPerConnection>5</maxStatementsPerConnection>
+    </named-config>
+    <named-config>
+        <name>localhost-gmldatabase</name>
+        <user>postgres</user>
+        <password>ikoiko</password>
+        <jdbcUrl>jdbc:postgresql://localhost:5432/gmldatabase</jdbcUrl>
+        <driverClass>org.postgresql.Driver</driverClass>
+        <acquireIncrement>1000</acquireIncrement>
+        <initialPoolSize>1000</initialPoolSize>
+        <minPoolSize>1000</minPoolSize>
+        <maxPoolSize>10000</maxPoolSize>
+        <maxStatements>3000</maxStatements>
+        <maxStatementsPerConnection>5</maxStatementsPerConnection>
+    </named-config>
+
+
+    <named-config>
+        <name>10.1.60.28-gmldatabase</name>
+        <user>sysman</user>
+        <password>ikoiko</password>
+        <jdbcUrl>jdbc:oracle:thin:@10.1.60.28:1521:gmldatabase</jdbcUrl>
+        <driverClass>oracle.jdbc.driver.OracleDriver</driverClass>
+        <acquireIncrement>5000</acquireIncrement>
+        <initialPoolSize>10000</initialPoolSize>
+        <minPoolSize>5000</minPoolSize>
+        <maxPoolSize>100000</maxPoolSize>
+        <maxStatements>3000</maxStatements>
+        <maxStatementsPerConnection>5</maxStatementsPerConnection>
+    </named-config>
+
+</c3p0-config>
+

@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wfs:FeatureCollection xmlns:gml="http://www.opengis.net/gml"
+                       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:fme="http://www.safe.com/gml/fme"
+                       xmlns:wfs="http://www.opengis.net/wfs"
+                       xsi:schemaLocation="http://www.opengis.net/wfs http://schemas.opengis.net/wfs/1.1.0/wfs.xsd http://www.safe.com/gml/fme raingauges.xsd">
+    <gml:boundedBy>
+        <gml:Envelope srsName="EPSG:32637" srsDimension="2">
+            <gml:lowerCorner>121.216 36.81</gml:lowerCorner>
+            <gml:upperCorner>122.7 37.537</gml:upperCorner>
+        </gml:Envelope>
+    </gml:boundedBy>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id396d8c0f-b54a-46a6-9989-c0f13fd54243">
+            <fme:STCD>11800026</fme:STCD>
+            <fme:STNM>埠口港</fme:STNM>
+            <fme:X>122.166</fme:X>
+            <fme:Y>37.013</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.166 37.013</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idf2936281-96c4-4ee3-8d16-9b9f10dd1c5f">
+            <fme:STCD>11800027</fme:STCD>
+            <fme:STNM>北高格庄</fme:STNM>
+            <fme:X>121.688</fme:X>
+            <fme:Y>37.124</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.688 37.124</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id1076285b-afae-4e93-8ba3-0f7ba16d73f7">
+            <fme:STCD>11800028</fme:STCD>
+            <fme:STNM>天福山</fme:STNM>
+            <fme:X>122.206</fme:X>
+            <fme:Y>37.237</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.206 37.237</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id858e8f2a-3e66-4315-840b-aea4b299a97c">
+            <fme:STCD>11800030</fme:STCD>
+            <fme:STNM>斥山</fme:STNM>
+            <fme:X>122.382</fme:X>
+            <fme:Y>36.93</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.382 36.93</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id1baf52cb-48fc-43c3-bd7d-dade5a1efb39">
+            <fme:STCD>11800031</fme:STCD>
+            <fme:STNM>乳山寨</fme:STNM>
+            <fme:X>121.448</fme:X>
+            <fme:Y>36.885</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.448 36.885</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idf53eccae-6362-4027-85fa-aa1f5e4aefaa">
+            <fme:STCD>11800032</fme:STCD>
+            <fme:STNM>铺集</fme:STNM>
+            <fme:X>121.828</fme:X>
+            <fme:Y>37.075</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.828 37.075</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id288e458f-48b1-44b7-b62e-d329e88ded64">
+            <fme:STCD>11800033</fme:STCD>
+            <fme:STNM>大疃</fme:STNM>
+            <fme:X>122.307</fme:X>
+            <fme:Y>37.307</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.307 37.307</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id2d75c200-cd04-4a85-8026-5357961285bb">
+            <fme:STCD>11800034</fme:STCD>
+            <fme:STNM>育黎</fme:STNM>
+            <fme:X>121.426</fme:X>
+            <fme:Y>37.007</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.426 37.007</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="iddb205090-e37a-45da-98e9-2334e714e03e">
+            <fme:STCD>11800035</fme:STCD>
+            <fme:STNM>车道</fme:STNM>
+            <fme:X>121.495</fme:X>
+            <fme:Y>37.007</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.495 37.007</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id71ea4021-5c86-4017-9bc5-8bd52918d0cc">
+            <fme:STCD>11800036</fme:STCD>
+            <fme:STNM>大梁家</fme:STNM>
+            <fme:X>122.446</fme:X>
+            <fme:Y>37.294</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.446 37.294</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id0c285206-5b4e-4952-ab93-a929856996b6">
+            <fme:STCD>11800037</fme:STCD>
+            <fme:STNM>张家产</fme:STNM>
+            <fme:X>122.097</fme:X>
+            <fme:Y>37.098</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.097 37.098</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idd756afdb-fd49-4255-8bf6-5a3d1bbae3fa">
+            <fme:STCD>11800038</fme:STCD>
+            <fme:STNM>崖西</fme:STNM>
+            <fme:X>122.368</fme:X>
+            <fme:Y>37.253</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.368 37.253</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idafad1e29-14f3-451b-945f-8f92a2c8a124">
+            <fme:STCD>11800039</fme:STCD>
+            <fme:STNM>人和</fme:STNM>
+            <fme:X>122.298</fme:X>
+            <fme:Y>36.891</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.298 36.891</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idcbb97512-5986-4b79-a9b8-179ceb3dfcd3">
+            <fme:STCD>41800001</fme:STCD>
+            <fme:STNM>市区</fme:STNM>
+            <fme:X>122.123</fme:X>
+            <fme:Y>37.511</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.123 37.511</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id3ef60783-cc41-4ab0-998c-d4b285f7940b">
+            <fme:STCD>41800002</fme:STCD>
+            <fme:STNM>张村</fme:STNM>
+            <fme:X>122.027</fme:X>
+            <fme:Y>37.474</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.027 37.474</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idf1001ffa-ba12-45d4-991a-e8b6ec477432">
+            <fme:STCD>41800003</fme:STCD>
+            <fme:STNM>蒿泊</fme:STNM>
+            <fme:X>122.145</fme:X>
+            <fme:Y>37.42</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.145 37.42</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id6d375d47-d2f5-4a5e-ba07-df5ac0f4584b">
+            <fme:STCD>41800004</fme:STCD>
+            <fme:STNM>初村</fme:STNM>
+            <fme:X>121.927</fme:X>
+            <fme:Y>37.411</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.927 37.411</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="iddb4e3abe-c5d9-4e1e-b252-5a22037648b2">
+            <fme:STCD>41800005</fme:STCD>
+            <fme:STNM>泊于</fme:STNM>
+            <fme:X>122.344</fme:X>
+            <fme:Y>37.378</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.344 37.378</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id13a35fe9-79ae-4ab9-9e4b-410c37e32380">
+            <fme:STCD>41800006</fme:STCD>
+            <fme:STNM>孙家疃</fme:STNM>
+            <fme:X>122.113</fme:X>
+            <fme:Y>37.537</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.113 37.537</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idc2c7880f-241b-422f-a6ed-3ea545cf84ad">
+            <fme:STCD>41800007</fme:STCD>
+            <fme:STNM>崖头</fme:STNM>
+            <fme:X>122.407</fme:X>
+            <fme:Y>37.165</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.407 37.165</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id9bbcde6e-64ca-4206-adcd-5029b598be51">
+            <fme:STCD>41800008</fme:STCD>
+            <fme:STNM>港西</fme:STNM>
+            <fme:X>122.412</fme:X>
+            <fme:Y>37.378</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.412 37.378</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idc4c0ae5b-a4a2-44fe-b37f-d5c0a3281b9b">
+            <fme:STCD>41800009</fme:STCD>
+            <fme:STNM>夏庄</fme:STNM>
+            <fme:X>122.444</fme:X>
+            <fme:Y>37.232</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.444 37.232</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idd122c687-042f-4e33-9e5e-0d58798beb37">
+            <fme:STCD>41800010</fme:STCD>
+            <fme:STNM>宁津</fme:STNM>
+            <fme:X>122.502</fme:X>
+            <fme:Y>36.987</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.502 36.987</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id488843c0-965b-45b4-ba09-7b4bd21c84d2">
+            <fme:STCD>41800011</fme:STCD>
+            <fme:STNM>虎山</fme:STNM>
+            <fme:X>122.208</fme:X>
+            <fme:Y>36.947</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.208 36.947</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id3db494ef-69ad-425c-8b51-2d44a5bedabd">
+            <fme:STCD>41800012</fme:STCD>
+            <fme:STNM>文登营</fme:STNM>
+            <fme:X>122.098</fme:X>
+            <fme:Y>37.214</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.098 37.214</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="iddb3c4c7c-6ef1-4312-88a8-7f6ea9104b26">
+            <fme:STCD>41800013</fme:STCD>
+            <fme:STNM>泽库</fme:STNM>
+            <fme:X>122.057</fme:X>
+            <fme:Y>36.934</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.057 36.934</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id5b08ca43-3367-4c9f-9c1b-97b5fabde6b6">
+            <fme:STCD>41800014</fme:STCD>
+            <fme:STNM>侯家</fme:STNM>
+            <fme:X>122.088</fme:X>
+            <fme:Y>37.023</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.088 37.023</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idc792c9e0-439b-49cc-9f5f-cbdb757cc21d">
+            <fme:STCD>41800015</fme:STCD>
+            <fme:STNM>宋村</fme:STNM>
+            <fme:X>122</fme:X>
+            <fme:Y>37.071</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122 37.071</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id4334500c-fb06-4bdf-bbe8-a40a795b201c">
+            <fme:STCD>41800016</fme:STCD>
+            <fme:STNM>小观</fme:STNM>
+            <fme:X>121.852</fme:X>
+            <fme:Y>36.973</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.852 36.973</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id9b1e1e77-5412-4278-90f8-bd314ac73dd2">
+            <fme:STCD>41800017</fme:STCD>
+            <fme:STNM>夏村</fme:STNM>
+            <fme:X>121.514</fme:X>
+            <fme:Y>36.908</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.514 36.908</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id21d23526-0c1d-4655-ba92-f33c229c6069">
+            <fme:STCD>41800018</fme:STCD>
+            <fme:STNM>下初</fme:STNM>
+            <fme:X>121.606</fme:X>
+            <fme:Y>37.03</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.606 37.03</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idd7226080-3597-4bdc-87c9-fe9c26d396fb">
+            <fme:STCD>41800019</fme:STCD>
+            <fme:STNM>诸往</fme:STNM>
+            <fme:X>121.373</fme:X>
+            <fme:Y>36.978</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.373 36.978</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id8e98350a-fbce-4615-8df2-817c245108f8">
+            <fme:STCD>41800020</fme:STCD>
+            <fme:STNM>白沙滩</fme:STNM>
+            <fme:X>121.644</fme:X>
+            <fme:Y>36.85</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.644 36.85</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id68658763-3b8f-4d9d-ac68-bba26c83fbb1">
+            <fme:STCD>41800021</fme:STCD>
+            <fme:STNM>海阳所</fme:STNM>
+            <fme:X>121.603</fme:X>
+            <fme:Y>36.81</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.603 36.81</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id1cbe8c86-cd04-4365-8de2-4a66b2b2aba2">
+            <fme:STCD>41800022</fme:STCD>
+            <fme:STNM>徐家</fme:STNM>
+            <fme:X>121.744</fme:X>
+            <fme:Y>36.909</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.744 36.909</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id8520d1a0-5545-43eb-a6be-70f34a183ae2">
+            <fme:STCD>41800023</fme:STCD>
+            <fme:STNM>高岛</fme:STNM>
+            <fme:X>121.999</fme:X>
+            <fme:Y>36.996</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.999 36.996</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id16a88999-81ed-4aae-ae91-076594fa27e4">
+            <fme:STCD>41800024</fme:STCD>
+            <fme:STNM>乳山口</fme:STNM>
+            <fme:X>121.503</fme:X>
+            <fme:Y>36.856</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.503 36.856</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id54ec891c-9a6b-450d-a0c1-ad468f4f58ad">
+            <fme:STCD>41800025</fme:STCD>
+            <fme:STNM>丁家洼</fme:STNM>
+            <fme:X>121.934</fme:X>
+            <fme:Y>37.243</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.934 37.243</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idba480fc3-d547-4c3d-85b6-e04910195e0b">
+            <fme:STCD>41800101</fme:STCD>
+            <fme:STNM>口子</fme:STNM>
+            <fme:X>122.168</fme:X>
+            <fme:Y>37.168</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.168 37.168</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idcb9c8fcc-96fe-4ed7-9714-cb487307529b">
+            <fme:STCD>41815088</fme:STCD>
+            <fme:STNM>武林</fme:STNM>
+            <fme:X>122.068</fme:X>
+            <fme:Y>37.329</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.068 37.329</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="ida5303a8a-9a31-4862-a35b-799d081489cf">
+            <fme:STCD>41815188</fme:STCD>
+            <fme:STNM>郭格庄</fme:STNM>
+            <fme:X>122.126</fme:X>
+            <fme:Y>37.296</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.126 37.296</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id0a494d3d-f3e4-4173-8633-159996838319">
+            <fme:STCD>41815288</fme:STCD>
+            <fme:STNM>后龙河</fme:STNM>
+            <fme:X>122.39</fme:X>
+            <fme:Y>37.199</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.39 37.199</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id7578ffae-5106-4033-8bb6-69bd383e1118">
+            <fme:STCD>41815388</fme:STCD>
+            <fme:STNM>所前泊</fme:STNM>
+            <fme:X>122.284</fme:X>
+            <fme:Y>37.289</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.284 37.289</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idd2e9e7ea-433b-4b02-82b6-d02e251235b7">
+            <fme:STCD>41815488</fme:STCD>
+            <fme:STNM>湾头</fme:STNM>
+            <fme:X>122.303</fme:X>
+            <fme:Y>37.083</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.303 37.083</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id79368a66-f484-49b9-a288-a3bbf8339df0">
+            <fme:STCD>41815501</fme:STCD>
+            <fme:STNM>鲍村</fme:STNM>
+            <fme:X>122.355</fme:X>
+            <fme:Y>37.129</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.355 37.129</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idfbfa322c-de61-447e-9e75-deeaf983bb9a">
+            <fme:STCD>41815700</fme:STCD>
+            <fme:STNM>米山</fme:STNM>
+            <fme:X>121.927</fme:X>
+            <fme:Y>37.176</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.927 37.176</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="ide32b0ee9-134e-41cf-bc94-a6de1e65512c">
+            <fme:STCD>41816000</fme:STCD>
+            <fme:STNM>龙角山</fme:STNM>
+            <fme:X>121.367</fme:X>
+            <fme:Y>37.033</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.367 37.033</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id2d2a3fd5-cac3-4bc2-ab36-94e1a99ed24a">
+            <fme:STCD>41816788</fme:STCD>
+            <fme:STNM>花家疃</fme:STNM>
+            <fme:X>121.686</fme:X>
+            <fme:Y>37.077</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.686 37.077</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idcfa12e13-c27f-4238-85e4-bdf9905bbc4e">
+            <fme:STCD>41816888</fme:STCD>
+            <fme:STNM>院里</fme:STNM>
+            <fme:X>121.396</fme:X>
+            <fme:Y>36.863</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.396 36.863</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id47260093-7c83-446b-8adb-e318ae2da673">
+            <fme:STCD>41816988</fme:STCD>
+            <fme:STNM>崮山</fme:STNM>
+            <fme:X>122.228</fme:X>
+            <fme:Y>37.399</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.228 37.399</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id3bd0c276-16ac-43ff-974a-997a5c78fae1">
+            <fme:STCD>41817088</fme:STCD>
+            <fme:STNM>八河</fme:STNM>
+            <fme:X>122.424</fme:X>
+            <fme:Y>37.04</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.424 37.04</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id3cfbfbfa-2595-4a31-b051-81cd1199d7d2">
+            <fme:STCD>41839700</fme:STCD>
+            <fme:STNM>羊亭</fme:STNM>
+            <fme:X>122.028</fme:X>
+            <fme:Y>37.423</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.028 37.423</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idf860fc93-a425-46e7-b55b-1df2f9ca354a">
+            <fme:STCD>41839750</fme:STCD>
+            <fme:STNM>威海</fme:STNM>
+            <fme:X>122.036</fme:X>
+            <fme:Y>37.512</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.036 37.512</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idc40a6cde-049c-41c3-8a3a-2564edbcfbc3">
+            <fme:STCD>41839800</fme:STCD>
+            <fme:STNM>温泉汤</fme:STNM>
+            <fme:X>122.174</fme:X>
+            <fme:Y>37.363</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.174 37.363</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id850a5450-49b1-4de3-a17d-3b65a18ac926">
+            <fme:STCD>41839900</fme:STCD>
+            <fme:STNM>纸坊</fme:STNM>
+            <fme:X>122.434</fme:X>
+            <fme:Y>37.317</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.434 37.317</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id0df8dde0-86ef-4f75-a93c-9de92d173809">
+            <fme:STCD>41839950</fme:STCD>
+            <fme:STNM>城厢</fme:STNM>
+            <fme:X>122.55</fme:X>
+            <fme:Y>37.367</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.55 37.367</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id0e1f5278-af8e-4a69-b19b-4197d622b86c">
+            <fme:STCD>41840000</fme:STCD>
+            <fme:STNM>成山头</fme:STNM>
+            <fme:X>122.7</fme:X>
+            <fme:Y>37.4</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.7 37.4</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idb1eb678e-e84e-40dc-8298-a960da3643bb">
+            <fme:STCD>41840030</fme:STCD>
+            <fme:STNM>上庄</fme:STNM>
+            <fme:X>122.288</fme:X>
+            <fme:Y>36.996</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.288 36.996</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idbc13384e-0159-434c-9f93-675d73f6a384">
+            <fme:STCD>41840040</fme:STCD>
+            <fme:STNM>王连</fme:STNM>
+            <fme:X>122.362</fme:X>
+            <fme:Y>36.987</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.362 36.987</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id9f4237ff-fad5-41d7-8e60-90c37036ccfb">
+            <fme:STCD>41840050</fme:STCD>
+            <fme:STNM>俚岛</fme:STNM>
+            <fme:X>122.566</fme:X>
+            <fme:Y>37.25</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.566 37.25</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id6cc22db4-d44c-4ec6-9823-ada3362fcfe9">
+            <fme:STCD>41840100</fme:STCD>
+            <fme:STNM>雨夼</fme:STNM>
+            <fme:X>122.297</fme:X>
+            <fme:Y>37.24</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.297 37.24</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id9b8de5fc-2ad5-4035-927c-d6eb3968a8ae">
+            <fme:STCD>41840150</fme:STCD>
+            <fme:STNM>荫子夼</fme:STNM>
+            <fme:X>122.316</fme:X>
+            <fme:Y>37.217</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.316 37.217</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id82a607a9-bfd8-49f1-8dfd-7bfa8c8005ad">
+            <fme:STCD>41840250</fme:STCD>
+            <fme:STNM>山马家</fme:STNM>
+            <fme:X>122.317</fme:X>
+            <fme:Y>37.167</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.317 37.167</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id5a87d399-592e-49e8-bf90-2e73009cc34d">
+            <fme:STCD>41840400</fme:STCD>
+            <fme:STNM>镆岛</fme:STNM>
+            <fme:X>122.5</fme:X>
+            <fme:Y>36.9</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.5 36.9</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id477392c4-8358-4e0e-a4b7-6887ce3ae650">
+            <fme:STCD>41840450</fme:STCD>
+            <fme:STNM>石岛</fme:STNM>
+            <fme:X>122.417</fme:X>
+            <fme:Y>36.883</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.417 36.883</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="ide18ae4a2-0401-492f-b52d-9f452552997c">
+            <fme:STCD>41840500</fme:STCD>
+            <fme:STNM>黄山</fme:STNM>
+            <fme:X>122.267</fme:X>
+            <fme:Y>36.934</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.267 36.934</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idb6e4a448-5ed7-4ee1-9735-46ee181dac9d">
+            <fme:STCD>41840550</fme:STCD>
+            <fme:STNM>泊岳家</fme:STNM>
+            <fme:X>122.215</fme:X>
+            <fme:Y>37.191</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.215 37.191</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idacc7e71a-592a-41c4-8f12-539293131966">
+            <fme:STCD>41840600</fme:STCD>
+            <fme:STNM>坤龙邢</fme:STNM>
+            <fme:X>122.204</fme:X>
+            <fme:Y>37.122</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.204 37.122</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id5845945b-0362-4ec3-af9b-5bd2048283e9">
+            <fme:STCD>41840650</fme:STCD>
+            <fme:STNM>南上夼</fme:STNM>
+            <fme:X>122.033</fme:X>
+            <fme:Y>37.367</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.033 37.367</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id2a4d81a4-c1ea-4e49-b9c1-db98ebfb8222">
+            <fme:STCD>41840700</fme:STCD>
+            <fme:STNM>汪疃</fme:STNM>
+            <fme:X>121.967</fme:X>
+            <fme:Y>37.3</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.967 37.3</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id851e5c36-e6b0-4553-b2d4-0ba39702baf1">
+            <fme:STCD>41840750</fme:STCD>
+            <fme:STNM>闫家泊子</fme:STNM>
+            <fme:X>121.9</fme:X>
+            <fme:Y>37.316</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.9 37.316</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="ide1ccb57c-225e-42d7-9907-cde3b731c2b6">
+            <fme:STCD>41840800</fme:STCD>
+            <fme:STNM>界石</fme:STNM>
+            <fme:X>121.867</fme:X>
+            <fme:Y>37.267</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.867 37.267</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id7330e749-49c4-471e-9364-eaa723513f61">
+            <fme:STCD>41840850</fme:STCD>
+            <fme:STNM>昆嵛山顶</fme:STNM>
+            <fme:X>121.777</fme:X>
+            <fme:Y>37.25</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.777 37.25</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id552695ec-e093-4c4a-8921-fcb4e1f566ea">
+            <fme:STCD>41840950</fme:STCD>
+            <fme:STNM>晒字</fme:STNM>
+            <fme:X>121.817</fme:X>
+            <fme:Y>37.217</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.817 37.217</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id54e367d9-7aa8-44b7-925e-2dbbfd02f23a">
+            <fme:STCD>41841150</fme:STCD>
+            <fme:STNM>孙疃</fme:STNM>
+            <fme:X>121.833</fme:X>
+            <fme:Y>37.117</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.833 37.117</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id840245a3-964f-44e8-9cfd-8fcaf8f8d0c8">
+            <fme:STCD>41841200</fme:STCD>
+            <fme:STNM>申格庄</fme:STNM>
+            <fme:X>122.083</fme:X>
+            <fme:Y>37.283</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.083 37.283</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id20f5f56b-b60d-449b-b570-e848804d4bec">
+            <fme:STCD>41841250</fme:STCD>
+            <fme:STNM>文登</fme:STNM>
+            <fme:X>122.067</fme:X>
+            <fme:Y>37.183</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.067 37.183</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idc02c048e-1f24-4c25-a0fe-9dc89f9a31d5">
+            <fme:STCD>41841300</fme:STCD>
+            <fme:STNM>东道口</fme:STNM>
+            <fme:X>121.916</fme:X>
+            <fme:Y>37.067</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.916 37.067</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id725b148d-6d82-4fcc-a587-d65d39cd22e5">
+            <fme:STCD>41841350</fme:STCD>
+            <fme:STNM>南圈</fme:STNM>
+            <fme:X>122.067</fme:X>
+            <fme:Y>37.084</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>122.067 37.084</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idf2690d59-60d6-45d5-9477-d12162d557c4">
+            <fme:STCD>41841700</fme:STCD>
+            <fme:STNM>冯家</fme:STNM>
+            <fme:X>121.666</fme:X>
+            <fme:Y>37.033</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.666 37.033</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="iddf8a23bb-d5d8-4516-93ae-fe52cccb1e99">
+            <fme:STCD>41841750</fme:STCD>
+            <fme:STNM>南黄</fme:STNM>
+            <fme:X>121.8</fme:X>
+            <fme:Y>36.983</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.8 36.983</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id9ef2890f-c0d4-4f0c-8434-534b1217e440">
+            <fme:STCD>41841800</fme:STCD>
+            <fme:STNM>河东</fme:STNM>
+            <fme:X>121.633</fme:X>
+            <fme:Y>36.917</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.633 36.917</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id3038fc29-57dd-4d0a-a9eb-e93fe689d78a">
+            <fme:STCD>41841850</fme:STCD>
+            <fme:STNM>王格庄</fme:STNM>
+            <fme:X>121.399</fme:X>
+            <fme:Y>37.167</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.399 37.167</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id34a666c7-26ec-4260-81e7-e543ef49fb8b">
+            <fme:STCD>41841900</fme:STCD>
+            <fme:STNM>大河东</fme:STNM>
+            <fme:X>121.4</fme:X>
+            <fme:Y>37.116</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.4 37.116</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="ide78497a4-2358-4fc2-bcd0-d9b8778cd60c">
+            <fme:STCD>41841950</fme:STCD>
+            <fme:STNM>马石店</fme:STNM>
+            <fme:X>121.216</fme:X>
+            <fme:Y>37.033</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.216 37.033</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id988367d4-a423-4157-a34e-674642a52861">
+            <fme:STCD>41842000</fme:STCD>
+            <fme:STNM>崖子</fme:STNM>
+            <fme:X>121.3</fme:X>
+            <fme:Y>37.083</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.3 37.083</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="idff470796-791a-4b7a-85ee-89997b1efa9c">
+            <fme:STCD>41842100</fme:STCD>
+            <fme:STNM>午极</fme:STNM>
+            <fme:X>121.483</fme:X>
+            <fme:Y>37.05</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.483 37.05</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+    <gml:featureMember>
+        <fme:raingauges gml:id="id347ea82e-efea-4e41-9cdc-6547b321dd65">
+            <fme:STCD>41842200</fme:STCD>
+            <fme:STNM>台依</fme:STNM>
+            <fme:X>121.493</fme:X>
+            <fme:Y>36.951</fme:Y>
+            <gml:pointProperty>
+                <gml:Point srsName="EPSG:32637" srsDimension="2">
+                    <gml:pos>121.493 36.951</gml:pos>
+                </gml:Point>
+            </gml:pointProperty>
+        </fme:raingauges>
+    </gml:featureMember>
+</wfs:FeatureCollection>

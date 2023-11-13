@@ -1,0 +1,42 @@
+<HTML>
+<BODY>
+In the "JDBC Driver" combobox you can specify or choose from the list
+the name of a JDBC driver class, which you would like to be used
+to establish connection to a database.
+<BR>
+DataMaster comes with a default JDBC Driver for MySQL (part of MySQL
+Connector/J 5.0, see <a href="http://dev.mysql.com/downloads/connector/j/5.0.html">
+    http://dev.mysql.com/downloads/connector/j/5.0.html</a>). The default
+database driver class called:
+<BR>
+<code><B>&nbsp&nbsp&nbsp&nbsp com.mysql.jdbc.Driver</B></code>
+<BR>
+can always be selected, but you can specify or select also other JDBC Driver classes,
+which you have included in the Prot�g� class path.
+<P>
+    <I>Note</I>: The most elegant way to include database drivers for DataMaster
+    in your Prot�g� classpath is to place the <code>.jar</code> file containing your driver
+    directly in the DataMaster plugin directory, located in
+    <BR>
+    <code><B>[PROTEGE_INSTALL_DIR]\plugins\edu.stanford.smi.protegex.datamaster</B></code>
+    <BR>
+    and restart Prot�g�.
+<P>
+    If you are looking for a JDBC driver for your database search the website of the DBMS
+    vendor or try the following link:
+    <a href="http://developers.sun.com/product/jdbc/drivers">http://developers.sun.com/product/jdbc/drivers</a>
+<P>
+    For convenience here is a list of example driver names for popular databases
+    (if you encounter problems please follow the API documentation of the JDBC driver)
+<ul>
+    <li>MS SQL Server 2000: <code><B>com.microsoft.jdbc.sqlserver.SQLServerDriver</code></B>
+    <li>MS SQL Server 2005: <code><B>com.microsoft.sqlserver.jdbc.SQLServerDriver</code></B>
+    <li>Oracle thin: <code><B>oracle.jdbc.driver.OracleDriver</code></B>
+    <li>IBM DB2: <code><B>com.ibm.db2.jdbc.app.DB2Driver</code></B>
+</ul>
+<P>
+    For more information please refer to
+    <a href="http://protegewiki.stanford.edu/index.php/DataMaster" target="_top">
+        http://protegewiki.stanford.edu/index.php/DataMaster</a>
+</BODY>
+</HTML>
